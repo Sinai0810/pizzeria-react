@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import BurnPizza from '../assets/imgs/Burnt_pizza-removebg-preview.PNG'
+import BurnPizza from '../assets/imgs/Burnt_pizza-removebg-preview.png'
 
 
 const NotFoundPage = () => {
